@@ -1,0 +1,10 @@
+Por falta de tiempo he creado una web que crea un formulario dinamico sobre canciones de un album. No pide por teclado los valores de un select, ni los valores de las opciones exclusivas, ni el valor de los inputs.
+
+He creado 2 divs, uno es la paleta de elementos para insertar en el formulario y el otro es el formulario en si.
+En el div de paleta de elementos he puesto varios botones:
+
+- titulo del album: que pregunta a traves de un textbox como se llama el disco
+- genero del album: que a traves de un select pregunta que genero tiene el disco
+- canciones: a traves de un prompt pregunto cuantas canciones tiene el disco y segun ese numero pregunta el titulo dela cancion y la duracion de ella
+- opciones exclusivas: pregunto a traves de dos radio buton con el mismo name si el disco está disponible en plataformas digitales.
+- boton final: Por ultimo a taves de un prompt pregunto que texto quiere poner en el boton finaly genero el boton correspondiente.

@@ -1,0 +1,21 @@
+.elementos{
+	width: 20%;
+    height: 100%;
+    border-right: 1px solid black;
+    float: left;
+	display: inline-block;
+}
+
+.formulario{
+	float: right;
+    width: 79%;
+    height: 100%;
+}
+
+h2 {
+	text-align: center;
+}
+
+button{
+	width: 100%;
+}
